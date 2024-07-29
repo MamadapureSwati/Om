@@ -1,2 +1,2 @@
-# Om
+# Swati
 Class GitHub
